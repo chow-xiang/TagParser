@@ -23,7 +23,7 @@ define( function( require ) {
 
 			/*模板必须要有一个根dom，如果出来是个数组，报错*/ 
 			if( result.length > 1 ){
-				errorTip( '模板必须有个根dom，fuck off！' );
+				errorTip( '模板必须有个根dom，fuck off！！！' );
 			}
 
 			/*将原来的子dom添加进去*/ 
